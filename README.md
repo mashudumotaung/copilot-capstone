@@ -57,7 +57,7 @@ The Copilot agent uses internal SOP documents for RAG-style responses, including
 
 | Folder/File | Description |
 |------------|------------|
-| `docs/user-guide.md` | Instructions on how to use the Copilot Agent |
+| https://tinyurl.com/IT-Support-Agent-User-Guide | Instructions on how to use the Copilot Agent |
 | `docs/architecture-diagram.png` | System architecture overview |
 | `docs/troubleshooting-flows/` | Flow diagrams for common issues |
 | `docs/sop/` | Standard Operating Procedures |
