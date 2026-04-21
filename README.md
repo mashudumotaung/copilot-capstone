@@ -1,7 +1,7 @@
 # copilot-capstone
 IT Support Copilot Automation Agent using Microsoft Copilot Studio
 
-https://m365.cloud.microsoft/chat/?titleId=T_ac3be8e5-0a26-b69e-bcc1-0928847c27b5&source=embedded-builder
+https://tinyurl.com/IT-Support-Agent
 
 ## Overview
 The IT Support Copilot Agent is a virtual assistant designed to help users resolve common Tier-1 technical issues efficiently. It simulates a real-world IT support helpdesk by guiding users through troubleshooting steps, classifying tickets, and escalating issues when necessary.
@@ -58,10 +58,10 @@ The Copilot agent uses internal SOP documents for RAG-style responses, including
 | Folder/File | Description |
 |------------|------------|
 | https://tinyurl.com/IT-Support-Agent-User-Guide | Instructions on how to use the Copilot Agent |
-| `docs/architecture-diagram.png` | System architecture overview |
-| `docs/troubleshooting-flows/` | Flow diagrams for common issues |
+| https://tinyurl.com/Diagram-Architecture | System architecture overview |
+| https://tinyurl.com/Troubleshooting-Flows | Flow diagrams for common issues |
 | (https://github.com/mashudumotaung/copilot-capstone/tree/main) | Standard Operating Procedures |
-| `screenshots/` | UI or demo screenshots |
+| https://tinyurl.com/Screenshots-project | UI or demo screenshots |
 
 
 ---
@@ -107,6 +107,9 @@ The Copilot agent uses internal SOP documents for RAG-style responses, including
 - AI-powered issue prediction  
 - Multi-language support  
 - Voice-based support
+
+- ## Presentation
+https://tinyurl.com/presentation-project
 ## Conclusion
 
 The **IT Support Copilot Agent** successfully demonstrates how AI can enhance traditional IT helpdesk operations by delivering structured, efficient, and user-friendly support.
