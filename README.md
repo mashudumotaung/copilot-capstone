@@ -1,6 +1,8 @@
 # copilot-capstone
 IT Support Copilot Automation Agent using Microsoft Copilot Studio
 
+https://m365.cloud.microsoft/chat/?titleId=T_ac3be8e5-0a26-b69e-bcc1-0928847c27b5&source=embedded-builder
+
 ---
 
 ## 🧩 Troubleshooting Workflows Included
